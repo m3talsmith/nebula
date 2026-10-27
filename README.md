@@ -1,8 +1,6 @@
-# Red Star
+# Nebula
 
-![Red Star Banner](./assets/redstar-banner.png)
-
-Red Star is a research focused application first; decentralized social network platform second.
+A small data platform that includes a dentralized network platform and self hosting capabilities of organizational data.
 
 ## Development
 
